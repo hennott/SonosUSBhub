@@ -6,7 +6,7 @@ Because we only had one socket in the kitchen corner, I decided to expand the ex
 
 If you have a similar problem, you can use and maybe even improve the print data and design data here.
 
-https://github.com/hennott/SonosUSBhub/blob/master/SonosUSBhub.jpg
+![image of the solution](https://github.com/hennott/SonosUSBhub/blob/master/SonosUSBhub.jpg)
 
 
 The used USB charger has five powerful connectors and is available under different brand names. An example could be found here on Amazon (NO Affiliate Link):
